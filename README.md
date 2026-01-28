@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhukhanh1304
+- 👋 Hi, I’m @emilytrank
 - 👀 I’m interested in learning more about coding and its application in Finance
 - 🌱 I’m currently learning Economics and Math
 - 💞️ I’m looking to collaborate on ...
